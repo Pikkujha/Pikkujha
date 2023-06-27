@@ -9,7 +9,7 @@ I am Pikku, a geek and a learner.
 - 😄 Pronouns: (He/Him)
 - ⚡ Fun fact: Stars are only visible in darkness.
 
-<img alt="https://media.tenor.com/y2JXkY1pXkwAAAAC/cat-computer.gif" />
+<img height=400 width=500 src="https://miro.medium.com/v2/resize:fit:720/1*LEH5tUEQReWe8Iu-UEV3Pg.gif" />
 <br>
 
 # Stats
