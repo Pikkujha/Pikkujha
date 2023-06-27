@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
+I am Pikku, a geek and a learner. 
 
 - 🔭 I’m currently working on FrontEnd projects with Reactjs.
 - 🌱 I’m currently learning web tehcnologies such as javascript, bootstrap and React.
@@ -8,6 +8,10 @@ Here are some ideas to get you started:
 - 💬 Ask me anything about computers.
 - 😄 Pronouns: (He/Him)
 - ⚡ Fun fact: Stars are only visible in darkness.
+
+
+<img alt="Coder GIF" height=250 width=350 src="https://magiccopy.xyz/assets/images/hadder.gif" />
+<br>
 
 # Stats
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=Pikkujha&theme=material-palenight&hide_border=false" alt="Pikkujha" /></p>
